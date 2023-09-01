@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @SanskarSinghRajput
-- 👀 I’m interested in Full Stack Web Development
-- 🌱 I’m currently learning MERN. 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Frontened Development
+- 🌱 I’m currently learning MERN Full Stack Web Development
+- 💞️ I’m looking for job 
+- 📫 How to reach me email-> sanskarsingh9999@gmail.com
 
 <!---
 SanskarSinghRajput/SanskarSinghRajput is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
